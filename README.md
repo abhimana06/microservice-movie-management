@@ -47,7 +47,7 @@ All the Microservices can be accessed through Swagger
 
 Once all the MicroServices started to run , access MovieCatalogService by
 
-http://localhost:8080/movieManagement/swagger-ui.html#/
+http://localhost:8080/swagger-ui.html#/
 
 
 # What we will accomplish:
